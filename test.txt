@@ -1,2 +1,3 @@
 this is a test file .
 This line is used to test new branch dev.
+本次用于测试解决冲突。是否已经成功？
